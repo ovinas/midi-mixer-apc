@@ -34,3 +34,8 @@ Load the file in Cantabile (File --> Open Song...)<br>
 Routing now should be like this:<br>
 
 ![10](https://user-images.githubusercontent.com/48880341/115947725-d8589d80-a4c9-11eb-9d24-f7328e1ba0af.png)<br>
+
+
+<b>Bome MIDI Translator</b><br>
+Set Midi In to "Virtual-3"<br>
+Set Midi Out to "Virtual-4"<br>
