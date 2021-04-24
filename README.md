@@ -28,4 +28,8 @@ Add a MIDI Output Port "APC"<br>
 
 ![07](https://user-images.githubusercontent.com/48880341/115947580-ebb73900-a4c8-11eb-980d-d43fd16e2913.png)<br>
 
-Load...
+Download https://github.com/ovinas/midi-mixer-apc/blob/main/midi-mixer-apc-level.cantabileSong and open it in Cantabile (File --> Open Song...)<br>
+
+Routing now should be like this:<br>
+
+![10](https://user-images.githubusercontent.com/48880341/115947725-d8589d80-a4c9-11eb-9d24-f7328e1ba0af.png)<br>
