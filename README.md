@@ -40,3 +40,7 @@ Routing now should be like this:<br>
 Set Midi In to "Virtual-3"<br>
 Set Midi Out to "Virtual-4"<br>
 Download https://github.com/ovinas/midi-mixer-apc/blob/main/midi-mixer-apc-level.bmtp<br>
+Load the file in Bome MIDI Translator (File --> Open)<br>
+
+![19](https://user-images.githubusercontent.com/48880341/115948214-1b684000-a4cd-11eb-831a-70f1cf47fee0.png)<br>
+
