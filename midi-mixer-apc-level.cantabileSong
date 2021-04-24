@@ -1,0 +1,371 @@
+{
+	"metronome": 
+	{
+		"timeSignature": "4\/4",
+		"tempo": 120,
+		"masterTransportId": "metronome",
+		"soundsGain": 1,
+		"soundsMeasureBeatBalance": 0,
+		"soundsEnabled": false,
+		"measureSoundsEnabled": true,
+		"stateManager": 
+		{
+			"behaviour": 3,
+			"indexedBehaviour": null,
+			"externalBehaviour": 0,
+			"externalIndexedBehaviour": null,
+			"nonLinkedBehaviour": 0,
+			"nonLinkedIndexedBehaviour": null,
+			"resetBehaviour": 0,
+			"resetIndexedBehaviour": null,
+			"states": {},
+			"resetState": null
+		}
+	},
+	"onscreenKeyboardState": 
+	{
+		"activeOctaveA": 4,
+		"activeOctaveB": 5,
+		"stateManager": 
+		{
+			"behaviour": 3,
+			"indexedBehaviour": null,
+			"externalBehaviour": 0,
+			"externalIndexedBehaviour": null,
+			"nonLinkedBehaviour": 0,
+			"nonLinkedIndexedBehaviour": null,
+			"resetBehaviour": 0,
+			"resetIndexedBehaviour": null,
+			"states": {},
+			"resetState": null
+		}
+	},
+	"showNotes": [],
+	"currentState": null,
+	"bindings": [],
+	"bindingGroups": 
+	[
+		{
+			"name": "General",
+			"expanded": true,
+			"enabled": true,
+			"slotColor": "Default",
+			"userNotes": null,
+			"stateManager": 
+			{
+				"behaviour": 0,
+				"indexedBehaviour": null,
+				"externalBehaviour": 0,
+				"externalIndexedBehaviour": null,
+				"nonLinkedBehaviour": 0,
+				"nonLinkedIndexedBehaviour": null,
+				"resetBehaviour": 0,
+				"resetIndexedBehaviour": null,
+				"states": {},
+				"resetState": null
+			},
+			"uniqueID": 1
+		}
+	],
+	"states": [],
+	"triggers": [],
+	"viewAsRoutingDiagram": true,
+	"showPortsInRoutingDiagram": true,
+	"savedByVersion": "3.0.3674",
+	"nextUniqueID": 2,
+	"objects": 
+	[
+		{
+			"kind": "InputPortProvider",
+			"transpose": 0,
+			"inputGain": 1,
+			"stateManager": 
+			{
+				"behaviour": 2,
+				"indexedBehaviour": null,
+				"externalBehaviour": 0,
+				"externalIndexedBehaviour": null,
+				"nonLinkedBehaviour": 0,
+				"nonLinkedIndexedBehaviour": null,
+				"resetBehaviour": 0,
+				"resetIndexedBehaviour": null,
+				"states": {},
+				"resetState": null
+			},
+			"userNotes": null,
+			"portWiringPositions": 
+			{
+				"MIDI.NUC": 125,
+				"MIDI.OSC": 275,
+				"MIDI.Virtual": 425,
+				"Audio.UCA In": 725,
+				"MIDI.APC": 125,
+				"MIDI.Virtual-2": 275,
+				"MIDI.Virtual-4": 425
+			},
+			"wiringPositionX": 150,
+			"wiringPositionY": 0,
+			"nextUniqueID": 4,
+			"uniqueId": 1,
+			"routes": 
+			[
+				{
+					"kind": "midiRoute",
+					"sourceChannelMask": 65535,
+					"keyRangeMin": 0,
+					"keyRangeMax": 127,
+					"transpose": 0,
+					"velocityCurve": 
+					{
+						"inputMin": 0,
+						"inputMax": 127,
+						"outputMin": 0,
+						"outputMax": 127,
+						"curveKind": "ExpandCompress",
+						"curveAmount": 0
+					},
+					"targetChannel": -1,
+					"conditionOperator": "GreaterThanOrEqual",
+					"conditionValue": 64,
+					"notesOnly": false,
+					"enableSourceProgramNumber": false,
+					"sourceProgramNumber": 8421376,
+					"ignoreSharedTranspose": false,
+					"showKeyRange": false,
+					"keyRangeColor": "Auto",
+					"enableConditionCC": false,
+					"conditionCC": 0,
+					"midiFilter": 
+					{
+						"items": []
+					},
+					"stateManager": 
+					{
+						"behaviour": 917,
+						"indexedBehaviour": null,
+						"externalBehaviour": 0,
+						"externalIndexedBehaviour": null,
+						"nonLinkedBehaviour": 0,
+						"nonLinkedIndexedBehaviour": null,
+						"resetBehaviour": 0,
+						"resetIndexedBehaviour": null,
+						"states": {},
+						"resetState": null
+					},
+					"wiringStartInset": 10,
+					"wiringEndInset": 10,
+					"enabled": true,
+					"userNotes": null,
+					"uniqueID": 1,
+					"name": null,
+					"sourcePort": "APC",
+					"targetKind": "OutputPortProvider",
+					"targetName": "OutputPort",
+					"targetPort": "Virtual-1"
+				},
+				{
+					"kind": "midiRoute",
+					"sourceChannelMask": 65535,
+					"keyRangeMin": 0,
+					"keyRangeMax": 127,
+					"transpose": 0,
+					"velocityCurve": 
+					{
+						"inputMin": 0,
+						"inputMax": 127,
+						"outputMin": 0,
+						"outputMax": 127,
+						"curveKind": "ExpandCompress",
+						"curveAmount": 0
+					},
+					"targetChannel": -1,
+					"conditionOperator": "GreaterThanOrEqual",
+					"conditionValue": 64,
+					"notesOnly": false,
+					"enableSourceProgramNumber": false,
+					"sourceProgramNumber": 8421376,
+					"ignoreSharedTranspose": false,
+					"showKeyRange": false,
+					"keyRangeColor": "Auto",
+					"enableConditionCC": false,
+					"conditionCC": 0,
+					"midiFilter": 
+					{
+						"items": []
+					},
+					"stateManager": 
+					{
+						"behaviour": 917,
+						"indexedBehaviour": null,
+						"externalBehaviour": 0,
+						"externalIndexedBehaviour": null,
+						"nonLinkedBehaviour": 0,
+						"nonLinkedIndexedBehaviour": null,
+						"resetBehaviour": 0,
+						"resetIndexedBehaviour": null,
+						"states": {},
+						"resetState": null
+					},
+					"wiringStartInset": 10,
+					"wiringEndInset": 10,
+					"enabled": true,
+					"userNotes": null,
+					"uniqueID": 2,
+					"name": null,
+					"sourcePort": "Virtual-2",
+					"targetKind": "OutputPortProvider",
+					"targetName": "OutputPort",
+					"targetPort": "Virtual-3"
+				},
+				{
+					"kind": "midiRoute",
+					"sourceChannelMask": 65535,
+					"keyRangeMin": 0,
+					"keyRangeMax": 127,
+					"transpose": 0,
+					"velocityCurve": 
+					{
+						"inputMin": 0,
+						"inputMax": 127,
+						"outputMin": 0,
+						"outputMax": 127,
+						"curveKind": "ExpandCompress",
+						"curveAmount": 0
+					},
+					"targetChannel": -1,
+					"conditionOperator": "GreaterThanOrEqual",
+					"conditionValue": 64,
+					"notesOnly": false,
+					"enableSourceProgramNumber": false,
+					"sourceProgramNumber": 8421376,
+					"ignoreSharedTranspose": false,
+					"showKeyRange": false,
+					"keyRangeColor": "Auto",
+					"enableConditionCC": false,
+					"conditionCC": 0,
+					"midiFilter": 
+					{
+						"items": []
+					},
+					"stateManager": 
+					{
+						"behaviour": 917,
+						"indexedBehaviour": null,
+						"externalBehaviour": 0,
+						"externalIndexedBehaviour": null,
+						"nonLinkedBehaviour": 0,
+						"nonLinkedIndexedBehaviour": null,
+						"resetBehaviour": 0,
+						"resetIndexedBehaviour": null,
+						"states": {},
+						"resetState": null
+					},
+					"wiringStartInset": 10,
+					"wiringEndInset": 10,
+					"enabled": true,
+					"userNotes": null,
+					"uniqueID": 3,
+					"name": null,
+					"sourcePort": "Virtual-2",
+					"targetKind": "OutputPortProvider",
+					"targetName": "OutputPort",
+					"targetPort": "APC"
+				},
+				{
+					"kind": "midiRoute",
+					"sourceChannelMask": 65535,
+					"keyRangeMin": 0,
+					"keyRangeMax": 127,
+					"transpose": 0,
+					"velocityCurve": 
+					{
+						"inputMin": 0,
+						"inputMax": 127,
+						"outputMin": 0,
+						"outputMax": 127,
+						"curveKind": "ExpandCompress",
+						"curveAmount": 0
+					},
+					"targetChannel": -1,
+					"conditionOperator": "GreaterThanOrEqual",
+					"conditionValue": 64,
+					"notesOnly": false,
+					"enableSourceProgramNumber": false,
+					"sourceProgramNumber": 8421376,
+					"ignoreSharedTranspose": false,
+					"showKeyRange": false,
+					"keyRangeColor": "Auto",
+					"enableConditionCC": false,
+					"conditionCC": 0,
+					"midiFilter": 
+					{
+						"items": []
+					},
+					"stateManager": 
+					{
+						"behaviour": 917,
+						"indexedBehaviour": null,
+						"externalBehaviour": 0,
+						"externalIndexedBehaviour": null,
+						"nonLinkedBehaviour": 0,
+						"nonLinkedIndexedBehaviour": null,
+						"resetBehaviour": 0,
+						"resetIndexedBehaviour": null,
+						"states": {},
+						"resetState": null
+					},
+					"wiringStartInset": 10,
+					"wiringEndInset": 10,
+					"enabled": true,
+					"userNotes": null,
+					"uniqueID": 4,
+					"name": null,
+					"sourcePort": "Virtual-4",
+					"targetKind": "OutputPortProvider",
+					"targetName": "OutputPort",
+					"targetPort": "APC"
+				}
+			],
+			"name": "InputPort",
+			"displayExpanded": true,
+			"slotColor": "Default"
+		},
+		{
+			"kind": "OutputPortProvider",
+			"outputGain": 1,
+			"stateManager": 
+			{
+				"behaviour": 0,
+				"indexedBehaviour": null,
+				"externalBehaviour": 0,
+				"externalIndexedBehaviour": null,
+				"nonLinkedBehaviour": 0,
+				"nonLinkedIndexedBehaviour": null,
+				"resetBehaviour": 0,
+				"resetIndexedBehaviour": null,
+				"states": {},
+				"resetState": null
+			},
+			"userNotes": null,
+			"portWiringPositions": 
+			{
+				"Audio.Main Speakers": 575,
+				"MIDI.NUC": 125,
+				"MIDI.OSC": 275,
+				"MIDI.Virtual": 425,
+				"MIDI.APC": 125,
+				"MIDI.Virtual-1": 275,
+				"MIDI.Virtual-3": 425
+			},
+			"wiringPositionX": 150,
+			"wiringPositionY": 0,
+			"nextUniqueID": 1,
+			"uniqueId": 2,
+			"routes": [],
+			"name": "OutputPort",
+			"displayExpanded": true,
+			"slotColor": "Default"
+		}
+	],
+	"modifiedBehaviour": "SignificantChanges"
+}
