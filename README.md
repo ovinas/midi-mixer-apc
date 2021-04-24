@@ -1,7 +1,7 @@
 # midi-mixer-apc
 <b>MIDI Mixer Profile with Peak Meters for the Akai APCmini MIDI Controller</b>
 
-<b>Required Downlads</b><br>
+<b>Required Apps</b><br>
 MIDI Mixer: https://www.midi-mixer.com<br>
 loopMIDI: http://www.tobias-erichsen.de/software/loopmidi.html<br>
 Cantabile Lite: https://www.cantabilesoftware.com/free-vst-host<br>
