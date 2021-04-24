@@ -45,4 +45,11 @@ Load the file in Bome MIDI Translator (File --> Open)<br>
 ![19](https://user-images.githubusercontent.com/48880341/115948214-1b684000-a4cd-11eb-831a-70f1cf47fee0.png)<br>
 
 <b>MIDI Mixer</b><br>
-Import the Profile by opening <a href="midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8">midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8</a> in a Webbrowser.<br>
+Import the Profile by opening midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8 in a Webbrowser.<br>
+Set Input to "Virtual-1" and Output to "Virtual-2"<br>
+
+![20](https://user-images.githubusercontent.com/48880341/115948894-33da5980-a4d1-11eb-8f69-0bd409f872b6.png)<br>
+
+Assign your Apps/Inputs/Outputs to the Control Groups.<br>
+
+![21](https://user-images.githubusercontent.com/48880341/115949006-0641e000-a4d2-11eb-8f56-a327e795de54.png)
