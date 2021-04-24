@@ -264,60 +264,6 @@
 					"wiringEndInset": 10,
 					"enabled": true,
 					"userNotes": null,
-					"uniqueID": 3,
-					"name": null,
-					"sourcePort": "Virtual-2",
-					"targetKind": "OutputPortProvider",
-					"targetName": "OutputPort",
-					"targetPort": "APC"
-				},
-				{
-					"kind": "midiRoute",
-					"sourceChannelMask": 65535,
-					"keyRangeMin": 0,
-					"keyRangeMax": 127,
-					"transpose": 0,
-					"velocityCurve": 
-					{
-						"inputMin": 0,
-						"inputMax": 127,
-						"outputMin": 0,
-						"outputMax": 127,
-						"curveKind": "ExpandCompress",
-						"curveAmount": 0
-					},
-					"targetChannel": -1,
-					"conditionOperator": "GreaterThanOrEqual",
-					"conditionValue": 64,
-					"notesOnly": false,
-					"enableSourceProgramNumber": false,
-					"sourceProgramNumber": 8421376,
-					"ignoreSharedTranspose": false,
-					"showKeyRange": false,
-					"keyRangeColor": "Auto",
-					"enableConditionCC": false,
-					"conditionCC": 0,
-					"midiFilter": 
-					{
-						"items": []
-					},
-					"stateManager": 
-					{
-						"behaviour": 917,
-						"indexedBehaviour": null,
-						"externalBehaviour": 0,
-						"externalIndexedBehaviour": null,
-						"nonLinkedBehaviour": 0,
-						"nonLinkedIndexedBehaviour": null,
-						"resetBehaviour": 0,
-						"resetIndexedBehaviour": null,
-						"states": {},
-						"resetState": null
-					},
-					"wiringStartInset": 10,
-					"wiringEndInset": 10,
-					"enabled": true,
-					"userNotes": null,
 					"uniqueID": 4,
 					"name": null,
 					"sourcePort": "Virtual-4",
@@ -353,9 +299,9 @@
 				"MIDI.NUC": 125,
 				"MIDI.OSC": 275,
 				"MIDI.Virtual": 425,
-				"MIDI.APC": 125,
-				"MIDI.Virtual-1": 275,
-				"MIDI.Virtual-3": 425
+				"MIDI.APC": 425,
+				"MIDI.Virtual-1": 127,
+				"MIDI.Virtual-3": 275
 			},
 			"wiringPositionX": 150,
 			"wiringPositionY": 0,
