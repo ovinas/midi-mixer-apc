@@ -33,12 +33,13 @@ Load the file in Cantabile (File --> Open Song...)<br>
 
 Routing now should be like this:<br>
 
-![10](https://user-images.githubusercontent.com/48880341/115947725-d8589d80-a4c9-11eb-9d24-f7328e1ba0af.png)<br>
+![10a](https://user-images.githubusercontent.com/48880341/115951718-925c0380-a4e2-11eb-8f3a-ed3fc8a07ff9.png)<br>
 
 
 <b>Bome MIDI Translator</b><br>
 Set Midi In to "Virtual-3"<br>
 Set Midi Out to "Virtual-4"<br>
+Activate "MIDI Thru" at Options.<br>
 Download https://github.com/ovinas/midi-mixer-apc/blob/main/midi-mixer-apc-level.bmtp<br>
 Load the file in Bome MIDI Translator (File --> Open)<br>
 
