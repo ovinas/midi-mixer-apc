@@ -44,3 +44,5 @@ Load the file in Bome MIDI Translator (File --> Open)<br>
 
 ![19](https://user-images.githubusercontent.com/48880341/115948214-1b684000-a4cd-11eb-831a-70f1cf47fee0.png)<br>
 
+<b>MIDI Mixer</b><br>
+Import the Profile by opening <a href="midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8">midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8</a> in a Webbrowser.<br>
