@@ -9,3 +9,4 @@ Bome MIDI Translator Classic: https://www.bome.com/products/mtclassic<br>
 
 
 <b>loopMIDI</b><br>
+Create 4 Ports named "Virtual-1" to "Virtual-4"<br>
