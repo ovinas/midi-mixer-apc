@@ -15,3 +15,13 @@ Create 4 Ports named "Virtual-1" to "Virtual-4"<br>
 
 
 <b>Cantabile</b><br>
+Go to Tools --> Options<br>
+Set Audio Engine to "Null Audio"<br>
+Delete all Audio Ports<br>
+Delete all MIDI Ports<br>
+Add a MIDI Input Port "Virtual 2"<br>
+Add a MIDI Input Port "Virtual 4"<br>
+Add a MIDI Output Port "Virtual 1"<br>
+Add a MIDI Output Port "Virtual 3"<br>
+Add a MIDI Input Port "APC"<br>
+Add a MIDI Output Port "APC"<br>
