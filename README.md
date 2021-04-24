@@ -32,4 +32,6 @@ Assign your Apps/Inputs/Outputs to the Control Groups.<br>
 
 ![21](https://user-images.githubusercontent.com/48880341/115949006-0641e000-a4d2-11eb-8f56-a327e795de54.png)<br>
 
-All three Apps have a "Start with Windows" Option that you may want to activate.
+All three Apps have a "Start with Windows" Option that you may want to activate.<br>
+
+Watch it in Action here: https://youtu.be/ZVpBBi5jRFk
