@@ -24,6 +24,7 @@ Load the file in Bome MIDI Translator (File --> Open)<br>
 
 <b>MIDI Mixer</b><br>
 Import the Profile by opening midi-mixer://share/7e3e33ceeaafcee6868533d36950d5e8 in a Webbrowser<br>
+If that profile isn't available anymore, download 
 Set Input to "APC MINI" and Output to "Virtual-1"<br>
 
 ![20a](https://user-images.githubusercontent.com/48880341/115956506-787bea00-a4fd-11eb-837e-20ee1c6569c1.png)<br>
