@@ -1,0 +1,387 @@
+{
+  "controls": {
+    "01F3YS5D77WJ5VGA7WCRBKGRS3": {
+      "name": "Channel-1",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 1,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3YZRBYHPERMED6B5VWPNSNK": {
+      "name": "Channel-2",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 2,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3Z1AG6YG1JS18683MSK4207": {
+      "name": "Channel-3",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 3,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3Z2KRT393NKAGNTW06E02XV": {
+      "name": "Channel-4",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 4,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3Z6TGTA7PT5G8QJGTFNKYS6": {
+      "name": "Channel-5",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 5,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3ZC1REZ8JYAXT6QADHJ6VVY": {
+      "name": "Channel-6",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 6,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3ZDJDJWZYRX4F6HG0K9GR07": {
+      "name": "Channel-7",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 7,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3ZEX659GXFQPJ668ECQ12MJ": {
+      "name": "Channel-8",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 8,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3ZPXF08REEQHRCMRDZZ9379": {
+      "name": "Channel-9",
+      "type": "output",
+      "isTrusted": true,
+      "channel": 0,
+      "control": 9,
+      "command": "cc",
+      "minValue": 0,
+      "maxValue": 8
+    },
+    "01F3ZQ6XNRG727T21VAYWNT6KC": {
+      "name": "Fader-1",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 48
+    },
+    "01F3ZQ7Y7FHK4TAQPK35PVC1KM": {
+      "name": "Fader-2",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 49
+    },
+    "01F3ZQ8A2FN3FSCZ5FYT21FSH8": {
+      "name": "Fader-3",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 50
+    },
+    "01F3ZQ8NYFABSB5X7AZRPDNHWA": {
+      "name": "Fader-4",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 51
+    },
+    "01F3ZQ91EF5EQZ1T0PGQZESFCX": {
+      "name": "Fader-5",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 52
+    },
+    "01F3ZQ9BQ794GR9673NBGT8J7R": {
+      "name": "Fader-6",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 53
+    },
+    "01F3ZQ9RDFRQKHMWTAWG8WPWX7": {
+      "name": "Fader-7",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 54
+    },
+    "01F3ZQA3GZ7HEBFM847MS9TB6P": {
+      "name": "Fader-8",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 55
+    },
+    "01F3ZQAE7Q6SRS61GAVVE5B946": {
+      "name": "Fader-9",
+      "type": "input-fader",
+      "isTrusted": true,
+      "command": "cc",
+      "channel": 0,
+      "control": 56
+    },
+    "01F3ZQAWHFFESAD7TF175QMAHA": {
+      "name": "Mute-1",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 64,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQDGJR9M7PCDCGBQQCERVN": {
+      "name": "Mute-2",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 65,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQG28ZQYGJV1XFED3T3A8Z": {
+      "name": "Mute-3",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 66,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQGNJFJA09VS4BJ05SKPMB": {
+      "name": "Mute-4",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 67,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQHBNZWNM05Q6CZHN29P36": {
+      "name": "Mute-5",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 68,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQHRMQQEHAQ0MBEWXGTGWC": {
+      "name": "Mute-6",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 69,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQJ8C7H7GP76M2VB4VPW8B": {
+      "name": "Mute-7",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 70,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQJP7FFZ4ZV0DCSTVCQ12M": {
+      "name": "Mute-8",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 71,
+      "pushValue": 127,
+      "automaticIndicator": true
+    },
+    "01F3ZQK3VZ5PXDDB6T2CGRWKCP": {
+      "name": "Mute-9",
+      "type": "input-button",
+      "isTrusted": true,
+      "command": "noteon",
+      "channel": 0,
+      "control": 98,
+      "pushValue": 127
+    }
+  },
+  "groups": {
+    "01F3YXSVXXZEZ3B38NHNH4P71F": {
+      "name": "Channel-1",
+      "meters": [
+        "01F3YS5D77WJ5VGA7WCRBKGRS3"
+      ],
+      "faders": [
+        "01F3ZQ6XNRG727T21VAYWNT6KC"
+      ],
+      "mute": [
+        "01F3ZQAWHFFESAD7TF175QMAHA"
+      ],
+      "muteIndicators": []
+    },
+    "01F3YZZ9NGN35GA8JX6WAJ4TDH": {
+      "name": "Channel-2",
+      "meters": [
+        "01F3YZRBYHPERMED6B5VWPNSNK"
+      ],
+      "faders": [
+        "01F3ZQ7Y7FHK4TAQPK35PVC1KM"
+      ],
+      "mute": [
+        "01F3ZQDGJR9M7PCDCGBQQCERVN"
+      ],
+      "muteIndicators": [
+        "01F3ZQDGJR9M7PCDCGBQQCERVN"
+      ]
+    },
+    "01F3Z1BG16TNX1RA33KTA6AHXQ": {
+      "name": "Channel-3",
+      "meters": [
+        "01F3Z1AG6YG1JS18683MSK4207"
+      ],
+      "faders": [
+        "01F3ZQ8A2FN3FSCZ5FYT21FSH8"
+      ],
+      "mute": [
+        "01F3ZQG28ZQYGJV1XFED3T3A8Z"
+      ],
+      "muteIndicators": [
+        "01F3ZQG28ZQYGJV1XFED3T3A8Z"
+      ]
+    },
+    "01F3Z2MF9KAGJ7PYQZR344A1QR": {
+      "name": "Channel-4",
+      "meters": [
+        "01F3Z2KRT393NKAGNTW06E02XV"
+      ],
+      "faders": [
+        "01F3ZQ8NYFABSB5X7AZRPDNHWA"
+      ],
+      "mute": [
+        "01F3ZQGNJFJA09VS4BJ05SKPMB"
+      ],
+      "muteIndicators": [
+        "01F3ZQGNJFJA09VS4BJ05SKPMB"
+      ]
+    },
+    "01F3Z6V3TT83T6FN26SYR44KVE": {
+      "name": "Channel-5",
+      "meters": [
+        "01F3Z6TGTA7PT5G8QJGTFNKYS6"
+      ],
+      "faders": [
+        "01F3ZQ91EF5EQZ1T0PGQZESFCX"
+      ],
+      "mute": [
+        "01F3ZQHBNZWNM05Q6CZHN29P36"
+      ],
+      "muteIndicators": [
+        "01F3ZQHBNZWNM05Q6CZHN29P36"
+      ]
+    },
+    "01F3ZC2BGQMX0F3DQ58QV5V8YM": {
+      "name": "Channel-6",
+      "meters": [
+        "01F3ZC1REZ8JYAXT6QADHJ6VVY"
+      ],
+      "faders": [
+        "01F3ZQ9BQ794GR9673NBGT8J7R"
+      ],
+      "mute": [
+        "01F3ZQHRMQQEHAQ0MBEWXGTGWC"
+      ],
+      "muteIndicators": [
+        "01F3ZQHRMQQEHAQ0MBEWXGTGWC"
+      ]
+    },
+    "01F3ZDKDCWC0Z0V1NTE8EM39YV": {
+      "name": "Channel-7",
+      "meters": [
+        "01F3ZDJDJWZYRX4F6HG0K9GR07"
+      ],
+      "faders": [
+        "01F3ZQ9RDFRQKHMWTAWG8WPWX7"
+      ],
+      "mute": [
+        "01F3ZQJ8C7H7GP76M2VB4VPW8B"
+      ],
+      "muteIndicators": [
+        "01F3ZQJ8C7H7GP76M2VB4VPW8B"
+      ]
+    },
+    "01F3ZEXWA95HTMSBRMHKXYAKP6": {
+      "name": "Channel-8",
+      "meters": [
+        "01F3ZEX659GXFQPJ668ECQ12MJ"
+      ],
+      "faders": [
+        "01F3ZQA3GZ7HEBFM847MS9TB6P"
+      ],
+      "mute": [
+        "01F3ZQJP7FFZ4ZV0DCSTVCQ12M"
+      ],
+      "muteIndicators": [
+        "01F3ZQJP7FFZ4ZV0DCSTVCQ12M"
+      ]
+    },
+    "01F3ZPX2GGN9J2P2KH31QYX3HX": {
+      "name": "Channel-9",
+      "meters": [
+        "01F3ZPXF08REEQHRCMRDZZ9379"
+      ],
+      "faders": [
+        "01F3ZQAE7Q6SRS61GAVVE5B946"
+      ],
+      "mute": [
+        "01F3ZQK3VZ5PXDDB6T2CGRWKCP"
+      ]
+    }
+  }
+}
